@@ -2,9 +2,6 @@ package com.company;
 
 import static com.company.ProjConstants.*;
 
-/**
- * Created by Robert Hubert on 22/05/2019.
- */
 public class MapRobot {
 	private int mapSize = INVALID;
 	//to see which spots are not visited or set with a valid value 

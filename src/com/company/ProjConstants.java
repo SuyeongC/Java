@@ -1,8 +1,5 @@
 package com.company;
 
-/**
- * Created by Robert Hubert on 22/05/2019.
- */
 public class ProjConstants {
 
 // ---------*---------*---------*---------*---------*

@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 import static com.company.ProjConstants.*;
 
-/**
- * Created by Robert Hubert on 22/05/2019.
- */
 public class MasterMap {
 
     private int[][] mapped;
@@ -137,7 +134,7 @@ public class MasterMap {
 
 
     // =======================================================================================================
-    //this will return the value stored the the “x, y” position in the master map.
+    //this will return the value stored the the ï¿½x, yï¿½ position in the master map.
     //
 
     public int getAltitude(int x, int y) {

@@ -4,9 +4,6 @@ import static com.company.ProjConstants.*;
 
 //import com.company.MapRobot.MatrixDirection;
 
-/**
- * Created by Robert Hubert on 22/05/2019.
- */
 public class MineRobot {
 	
 	private int mapSize = INVALID;
